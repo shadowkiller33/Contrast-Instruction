@@ -25,7 +25,7 @@ Each example in the json file looks like this (example from `WMT`) --
 `query` and `retrieval` correspond to the two (inputs of) the instructions. `*_response_k` is the human preferred response for `query` and `retrieval` respectively. `*_response_j` is a less preferred response, that is NOT used in our reward consistency metrics. 
 
 ## Human preference data
-We release the human preference data + splits for `WMT`, `Twitter` and `RealSumm` under [`data/human_preferences`](https://github.com/shadowkiller33/Contrast-Instruction/tree/master/data/human_preferences). The `StackExchange` dataset can be found on Huggingface datasets -- [`HuggingFaceH4/stack-exchange-preferences`](https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences). 
+We release the human preference data + splits for `WMT`, `Twitter` and `RealSumm` under [`data/human_preferences`](https://github.com/shadowkiller33/Contrast-Instruction/tree/master/data/human_preferences). The `StackExchange` dataset can be found on Hugging Face datasets -- [`HuggingFaceH4/stack-exchange-preferences`](https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences). 
 
 
 ## Running Evaluation
