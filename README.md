@@ -31,5 +31,11 @@ We release the human preference data + splits for `WMT`, `Twitter` and `RealSumm
 ## Running Evaluation
 WIP; We are still cleaning + organizing code for release. Please reach out to `lshen30[at]jhu.edu` and `sihaoc[at]cis.upenn.edu` for questions. 
 
-
-
+## Citation
+@article{shen2023trickle,
+  title={The Trickle-down Impact of Reward (In-)consistency on RLHF},
+  author={Lingfeng Shen and Sihao Chen and Linfeng Song and Lifeng Jin and Baolin Peng and Haitao Mi and Daniel Khashabi and Dong Yu},
+  year={2023},
+  journal={arXiv preprint arXiv:2309.16155},
+  url={https://arxiv.org/pdf/2309.16155.pdf}
+}
